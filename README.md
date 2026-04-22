@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-# Neural Network ( Deep Learning)
+# (Neural Network ( Deep Learning))[https://udlbook.github.io/udlbook/]
 
 - L1 Introduction to Deep Learning
 - L2 (DL) Neural Networks
